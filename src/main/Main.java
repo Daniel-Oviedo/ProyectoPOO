@@ -9,7 +9,7 @@ public class Main {
         persona1.mostrarDatos();
 
         Personas persona2 = new Personas();
-        persona2.nombre = "Adolf Hitler";
+        persona2.nombre = "Adolf OVIEDO";
         persona2.edad = 500;
         persona2.mostrarDatos();
 
